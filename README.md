@@ -1,5 +1,6 @@
 ### 👋 Introduction ｜ 自我介绍
 
+#### 🎆2025 新年快乐
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)  ![](https://img.shields.io/static/v1?label=wechat&message=rubyceng&color=7BB32E&logo=wechat) ![Email Badge](https://img.shields.io/badge/Email-rubyceng0326@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)
 
@@ -14,10 +15,10 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 💻 Open Source Work Stats ｜ 开发
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rubyceng&hide=contribs&show_icons=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=rubyceng&hide=contribs&show_icons=true&height=300" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubyceng&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubyceng&layout=compact&height=300" />
 </a>
 
 
