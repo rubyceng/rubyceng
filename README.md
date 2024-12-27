@@ -24,9 +24,9 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ### 🤔 TODO in 2025 ｜ 2025 正在努力
 
-- >🔭 I am currently learning about full stack development of Node.js 🏃__doing...__
+- >🔭 I am currently learning about full stack development of Node.js 🏃doing...
 
-    正在学习 nodejs 全栈开发相关 🏃__进行中...__
+    正在学习 nodejs 全栈开发相关 🏃doing...
 - >🐘 I am currently learning PostgresSQL database
 
     正在学习 PostgresSQL 数据库
