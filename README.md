@@ -2,7 +2,7 @@
 
 #### 🎆 2025 新年快乐
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![Email Badge](https://img.shields.io/badge/Email-rubyceng0326@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)
+![status](https://img.shields.io/badge/status-up-brightgreen)  ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)  ![Email Badge](https://img.shields.io/badge/Email-rubyceng0326@gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)
 
 Hi guys, I'm **Ruby Ceng**. I am a JavaScript and Java developer from China.
 I have some works with **JavaScript**, **Node.js** and **Java**, contact me if you have same interesting or some questions!
