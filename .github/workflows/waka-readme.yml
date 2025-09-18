@@ -10,7 +10,12 @@ jobs:
   update-readme:
     name: Update Readme with Dev Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
