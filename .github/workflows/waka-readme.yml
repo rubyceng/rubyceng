@@ -6,6 +6,11 @@ on:
     - cron: '0 2 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+  metadata: read
+  actions: read
+
 jobs:
   update-readme:
     name: Update Readme with Dev Metrics
