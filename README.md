@@ -12,4 +12,11 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ---
 
+### 📊 Development Statistics | 开发统计
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ⭐️ From [rubyceng](https://github.com/rubyceng) ｜ Hello World 2025!
