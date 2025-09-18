@@ -50,3 +50,38 @@ Once set up, you'll see beautiful statistics like:
 - And much more!
 
 The statistics will appear in the `📊 Development Statistics` section of the README.
+
+## Troubleshooting
+
+### Common Issues
+
+#### ❌ Error: "Resource not accessible by integration"
+**Solution:** This indicates insufficient GitHub token permissions.
+- ✅ **Fixed:** The workflow now includes proper permissions configuration
+- The workflow automatically uses the built-in `GITHUB_TOKEN` with necessary permissions
+
+#### ❌ Workflow fails with "WAKATIME_API_KEY not found"
+**Solution:** Ensure your WakaTime API key is properly configured:
+1. Go to repository Settings → Secrets and variables → Actions
+2. Verify `WAKATIME_API_KEY` secret exists
+3. Make sure the key is copied correctly from [WakaTime settings](https://wakatime.com/settings/account)
+
+#### ❌ No statistics appear in README
+**Possible causes:**
+1. First run may take time to collect data
+2. WakaTime plugins not installed in your IDEs
+3. Not enough coding activity yet
+4. **Solution:** Wait 24-48 hours after setup and ensure WakaTime is tracking your coding time
+
+#### 🔄 Manual Testing
+To test if the setup is working:
+1. Go to Actions tab in your repository
+2. Click on "Waka Readme" workflow
+3. Click "Run workflow" button
+4. Monitor the workflow execution for any errors
+
+### Getting Help
+If you encounter other issues:
+1. Check the Actions tab for detailed error logs
+2. Verify your WakaTime account is tracking coding time
+3. Ensure your IDE plugins are properly configured
