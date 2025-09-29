@@ -15,20 +15,62 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 14.1 kB Used in GitHub's Storage 
  > 
-> 🏆 88 Contributions in the Year 2025
+> 🏆 87 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+🌆 Daytime                24 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌃 Evening                71 commits          ████████████████░░░░░░░░░   62.28 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Tuesday                  26 commits          ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Thursday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Friday                   50 commits          ███████████░░░░░░░░░░░░░░   43.86 % 
+Saturday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Sunday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               16 hrs 58 mins      ████████████████████░░░░░   80.92 % 
+Prisma                   2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Vue.js                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 58 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      20 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -43,7 +85,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rubyceng/rubyceng/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 03:16:30 UTC
+ Last Updated on 29/09/2025 03:11:29 UTC
 <!--END_SECTION:waka-->
 
 ---
