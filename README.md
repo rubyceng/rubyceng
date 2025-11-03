@@ -15,6 +15,8 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2019%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -84,7 +86,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rubyceng/rubyceng/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 03:17:30 UTC
+ Last Updated on 03/11/2025 03:19:15 UTC
 <!--END_SECTION:waka-->
 
 ---
