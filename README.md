@@ -15,7 +15,7 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,11 +23,11 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 > 📦 15.5 kB Used in GitHub's Storage 
  > 
-> 🏆 88 Contributions in the Year 2025
+> 🏆 90 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -58,25 +58,25 @@ Sunday                   5 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               21 hrs 55 mins      ████████████████████░░░░░   79.98 % 
-Prisma                   3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Markdown                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Java                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+TypeScript               22 hrs 4 mins       ███████████████████░░░░░░   76.57 % 
+Prisma                   3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+SQL                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 59 mins      █████████████████████████   98.43 % 
-IntelliJ IDEA            25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+VS Code                  28 hrs 47 mins      █████████████████████████   99.84 % 
+IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Mac                      27 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               3 repos             ███████████████████░░░░░░   75.00 % 
-JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               4 repos             ████████████████████░░░░░   80.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
@@ -86,7 +86,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/rubyceng/rubyceng/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2025 03:14:56 UTC
+ Last Updated on 13/11/2025 03:17:41 UTC
 <!--END_SECTION:waka-->
 
 ---
