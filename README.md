@@ -17,21 +17,21 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 ### 📊 Development Statistics | 开发统计
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-414.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-417.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 15.5 kB Used in GitHub's Storage 
  > 
-> 🏆 96 Contributions in the Year 2025
+> 🏆 98 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 4 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
@@ -39,22 +39,23 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 22 mins      ████████████████░░░░░░░░░   64.35 % 
-YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Prisma                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+TypeScript               13 hrs 13 mins      ██████████████░░░░░░░░░░░   55.89 % 
+Markdown                 2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Prisma                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Other                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+YAML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 14 mins      ████████████████████████░   97.55 % 
-Antigravity              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+VS Code                  23 hrs 5 mins       ████████████████████████░   97.61 % 
+Antigravity              26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+IntelliJ IDEA            7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 💻 Operating System: 
-Mac                      17 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/12/2025 02:43:33 UTC
+ Last Updated on 28/12/2025 02:55:13 UTC
 <!--END_SECTION:waka-->
 
 ---
