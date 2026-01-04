@@ -25,7 +25,7 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
 
 > 📦 15.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,8 +33,26 @@ I have some works with **JavaScript**, **Node.js** and **Java**, contact me if y
  > 
 > 🔑 3 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/01/2026 02:42:56 UTC
+```text
+💬 Programming Languages: 
+TypeScript               8 hrs 29 mins       ██████████████░░░░░░░░░░░   55.30 % 
+Markdown                 3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+JSON                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Prisma                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 55 mins      ███████████████████████░░   90.58 % 
+Antigravity              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+
+💻 Operating System: 
+Mac                      15 hrs 22 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/01/2026 02:56:49 UTC
 <!--END_SECTION:waka-->
 
 ---
